@@ -1,9 +1,4 @@
-# Flutter E-Commerce App Template
 
-
-### Video Preview of the Shop template
-
-![Preview](/intro.gif)
 
 ## Screens it contains:
 
